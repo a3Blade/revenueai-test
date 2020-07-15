@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.webchat__bubble__content{
+  background-color: cornflowerblue !important;
+}

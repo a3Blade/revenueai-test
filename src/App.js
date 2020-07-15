@@ -20,8 +20,8 @@ function App() {
         >
           Learn React
         </a>
-        {/* <DirectLine></DirectLine> */}
-        <ChatComponent></ChatComponent>
+        <DirectLine></DirectLine>
+        {/* <ChatComponent></ChatComponent> */}
       </header>
     </div>
   );
